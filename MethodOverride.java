@@ -6,7 +6,7 @@ class Super{
 	}
 }
 class Sub extends Super{
-	//You an override methods of A in B if you want
+	//You can override methods of A in B if you want
 	void inherit() {
 		System.out.println("Class B");
 	}
